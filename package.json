@@ -1,0 +1,9 @@
+{
+  "name": "react-percent-done",
+  "version": "0.0.3",
+  "description": "A progress bar component for React",
+  "main": "dist/index.js",
+  "scripts": {},
+  "author": "Thomas Marek <ttmarek@outlook.com>",
+  "license": "ISC"
+}
